@@ -1,13 +1,14 @@
-.form-control::placeholder{
-    color: white ;
+
+.form-control::placeholder {
+  color: darkgray;
 }
-.card{
-    border-radius: 20px;
-    background-color: #a9f8f8;
+
+.card {
+  border-radius: 20px;
+  background-color: #a9f8f8;
 }
 
 .icon {
-    height: 70px;
-    width: 70px;
-    
+  height: 70px;
+  width: 70px;
 }
